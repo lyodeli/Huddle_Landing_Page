@@ -1,0 +1,57 @@
+html {
+  font-size: 70%;
+}
+
+body {
+  background-image: url("/images/bg-mobile.svg");
+  background-size: auto;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-color: hsl(257, 40%, 49%);
+  width: 100%;
+}
+
+header {
+  min-height: 0;
+}
+
+.logo {
+  height: 4vh;
+}
+
+.summary img {
+  min-height: 20vh;
+  padding: 3rem;
+}
+
+.summary-text {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.summary-text h1 {
+  padding: 0;
+}
+
+.summary-text p {
+  font-size: 1.2rem;
+  line-height: 1.8rem;
+}
+
+.summary-text button {
+  margin: 1rem;
+  padding: 1rem 7rem;
+}
+
+footer {
+  min-height: 10rem;
+}
+
+.icons {
+  justify-content: center;
+}
+
+.attribution {
+  font-size: 0.9rem;
+}
