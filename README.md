@@ -15,8 +15,8 @@ Screenshots of the finished projects can be found in the 'finishedProjPics' fold
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/lyodeli/Huddle_Landing_Page
+- Live Site URL: https://lyodeli.github.io/Huddle_Landing_Page/
 
 ## MY PROCESS
 
@@ -33,7 +33,7 @@ Overall, I got a better feel for semantic HTML and using flexbox. I also learned
 
 ### Continued development
 
-I'm moving into my next project by planning on getting more practice with HTML and CSS, but also adding in Javascript in some form or another. I also want to spend time creating a tablet-sized CSS as the flow from desktop to mobile felt very jarring.
+I'm moving into my next project by planning on getting more practice with HTML and CSS, but also adding in Javascript in some form or another. I also want to spend time creating a tablet-sized CSS as the flow from desktop to mobile here felt very jarring.
 
 ### Useful resources
 
@@ -41,6 +41,6 @@ I'm moving into my next project by planning on getting more practice with HTML a
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Github - [@lyodeli](https://github.com/lyodeli)
 - Frontend Mentor - [@lyodeli](https://www.frontendmentor.io/profile/lyodeli)
 - Twitter - [@lyodeli](https://www.twitter.com/lyodeli)
