@@ -112,3 +112,16 @@ footer {
   color: hsl(300, 69%, 71%);
   text-decoration: none;
 }
+
+@media screen and (max-width: 868px) and (min-width: 375px) {
+  body {
+    background-image: url("images/bg-mobile.svg");
+    background-repeat: no-repeat;
+  }
+  .summary-text,
+  .icons {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+  }
+}
